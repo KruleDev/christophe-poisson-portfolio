@@ -129,7 +129,7 @@
             header.classList.remove("loading")
             main.classList.remove("loading")
             footer.classList.remove("loading")
-        },500);
+        },3000);
     }
     init()
 
